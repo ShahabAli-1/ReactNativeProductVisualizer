@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Product-visualizer",
+    "slug": "Product-visualizer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Product-visualizer"
+}
